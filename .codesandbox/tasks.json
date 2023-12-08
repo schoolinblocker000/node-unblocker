@@ -35,7 +35,10 @@
     },
     "test-perf": {
       "name": "test-perf",
-      "command": "npm run test-perf"
+      "command": "npm run test-perf",
+      "preview": {
+        "port": 41295
+      }
     }
   }
 }
